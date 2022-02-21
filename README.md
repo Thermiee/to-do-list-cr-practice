@@ -1,7 +1,7 @@
 ![](ss.jpg)
 
 
-# To Do List Project
+# To Do List Project CR Practice
 
 - Web app to keep track of tasks with add / remove / edit functionality.
 - Data is stored in LocalStorage
